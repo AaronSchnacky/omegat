@@ -1,3 +1,5 @@
+current goal: to replace probabilistic QM with geometric determinism
+
 Ω(t)=Π\_{D₄}(r\_{p(t)}⋅φ^{i(t)})+τ-Ham(φ↔ψ)
 
 E₈q⊗ℤ(φ,ψ)⋊φ^k, q=e^{2πi/5}
