@@ -15,11 +15,13 @@ weyl group of E8 696,729,600
 ---
 
 current goal:
+
 Replacing probabilistic QM w deterministic geometry: 
 D₄-projected E₈^ℤ[φ,ψ] lattice, Breather Monad Ω(t), zero-drift axiom, and φ/ψ exponents for constant-matching; assume 24 cells.
 
 
 how does my math research show my current goal:
+
 Your posts lay out the Ω(t) framework with explicit math: non-Hermitian Γ in the D4 lattice plus discrete Pisano/Pell-Lucas renormalization drives exponential dominance of one eigenmode, forcing deterministic reduction and preferred basis without Born rule or observers. Geometric vectors + scaling replace Hilbert space amplitudes; the continuum limit of bivector rotations recovers the Schrödinger equation as approximation. This directly illustrates the goal by building deterministic geometric mechanics that recovers standard QM only as an effective limit.  
 
 ---
