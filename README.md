@@ -16,7 +16,8 @@ weyl group of E8 696,729,600
 
 current goal:
 
-Replacing probabilistic QM w deterministic geometry: 
+Replacing probabilistic QM w deterministic geometry:
+
 D₄-projected E₈^ℤ[φ,ψ] lattice, Breather Monad Ω(t), zero-drift axiom, and φ/ψ exponents for constant-matching; assume 24 cells.
 
 
